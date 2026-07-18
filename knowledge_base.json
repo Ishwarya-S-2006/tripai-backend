@@ -1,0 +1,42 @@
+{
+  "Madurai": {
+    "festivals": [
+      {
+        "name": "Meenakshi Thirukalyanam (Chithirai Festival)",
+        "REPLACE": "REPLACE: confirm exact 2026 dates from Tamil Nadu tourism board or Meenakshi Amman Temple site",
+        "description": "REPLACE: short honest description of what happens during this festival",
+        "source": "REPLACE: paste the real source URL here"
+      }
+    ],
+    "etiquette": [
+      {
+        "tip": "REPLACE: e.g. dress code for temple entry (shoulders/knees covered, remove footwear)",
+        "source": "REPLACE: paste the real source URL here"
+      }
+    ],
+    "food": [
+      {
+        "dish": "REPLACE: e.g. Jigarthanda",
+        "description": "REPLACE: honest description, not tourist-brochure language",
+        "where_to_try": "REPLACE: real spot name",
+        "source": "REPLACE: paste the real source URL here"
+      }
+    ],
+    "verified_spots": [
+      {
+        "name": "REPLACE: real spot name",
+        "category": "REPLACE: e.g. temple / food / market",
+        "notes": "REPLACE: honest notes",
+        "lat": null,
+        "lng": null,
+        "source": "REPLACE: paste the real source URL here"
+      }
+    ]
+  },
+  "Thanjavur": {
+    "festivals": [],
+    "etiquette": [],
+    "food": [],
+    "verified_spots": []
+  }
+}
