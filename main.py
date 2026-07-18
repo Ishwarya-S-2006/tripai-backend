@@ -45,21 +45,24 @@ FALLBACK_PLAN = {
             "day": 2,
             "title": "Food & Culture",
             "activities": [
-                "Explore local markets",
-                "Visit a nearby cultural landmark",
+                "Explore local markets near the old city",
+                "Visit Thirumalai Nayakkar Palace",
             ],
-            "food_suggestions": ["Sample a well-known Madurai street food"],
-            "local_tip": "REPLACE with a real tip once knowledge_base.json is filled in.",
+            "food_suggestions": ["Sample Jigarthanda, a Madurai specialty drink"],
+            "local_tip": "Bargaining is common and expected in local markets.",
         },
         {
             "day": 3,
-            "title": "Wind down",
-            "activities": ["Relax at a park or garden", "Souvenir shopping"],
-            "food_suggestions": [],
-            "local_tip": None,
+            "title": "Wind Down",
+            "activities": ["Relax at Vandiyur Mariamman Teppakulam", "Souvenir shopping"],
+            "food_suggestions": ["Try a traditional South Indian thali for lunch"],
+            "local_tip": "Carry cash, as smaller vendors may not accept cards.",
         },
     ],
-    "etiquette_notes": ["REPLACE with real etiquette notes from knowledge_base.json"],
+    "etiquette_notes": [
+        "Dress modestly when visiting temples — shoulders and knees covered.",
+        "Remove footwear before entering temple premises.",
+    ],
     "sources": [],
 }
 
