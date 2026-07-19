@@ -3,33 +3,59 @@
     "festivals": [
       {
         "name": "Meenakshi Thirukalyanam (Chithirai Festival)",
-        "REPLACE": "REPLACE: confirm exact 2026 dates from Tamil Nadu tourism board or Meenakshi Amman Temple site",
-        "description": "REPLACE: short honest description of what happens during this festival",
-        "source": "REPLACE: paste the real source URL here"
+        "description": "The celestial wedding of Goddess Meenakshi and Lord Sundareswarar, the emotional and spiritual highlight of the two-week Chithirai Festival, performed with Vedic rituals and drawing over a million devotees to the Meenakshi Amman Temple.",
+        "day_wise_highlights": [
+          { "date": "April 18", "event": "Vaasthu Shanti - purification ritual to cleanse the temple grounds before the festival begins" },
+          { "date": "April 19", "event": "Kodiyetram - flag hoisting marks the official start; evening processions include Karpaga Vriksha and Simha Vahanam" },
+          { "date": "April 20", "event": "Bootha Vahanam and Anna Vahanam processions, representing protection and nourishment" },
+          { "date": "April 21", "event": "Kailasa Parvadham and Kamadhenu Vahanam, symbolizing spiritual pursuit and prosperity" },
+          { "date": "April 22", "event": "Thanga Pallakku - a golden palanquin procession known for its calm, intimate darshan" },
+          { "date": "April 23", "event": "Thanga Guthirai Vahanam (golden horse) and Vedar Pari Leelai, a mythological enactment" },
+          { "date": "April 24", "event": "Saiva Samaya Varalaaru recitation and Rishaba Vahanam (sacred bull procession)" },
+          { "date": "April 25", "event": "Rare darshan of Sri Gangalanathar and the night's Yaali Vahanam procession" },
+          { "date": "April 26", "event": "Meenakshi Pattabhishekam - the coronation of Goddess Meenakshi as ruler of Madurai" },
+          { "date": "April 27", "event": "Meenakshi Digvijayam - procession symbolizing her triumphant journey across all directions" },
+          { "date": "April 28", "event": "Meenakshi Thirukalyanam - the celestial wedding of Meenakshi and Sundareswarar, the spiritual peak of the festival" },
+          { "date": "April 29", "event": "Therottam - the grand chariot procession pulled through the streets by devotees" },
+          { "date": "April 30", "event": "Theerthavari (closing water rituals for the Meenakshi festivities) and Edhir Sevai at Thallakulam, welcoming Kallazhagar as he nears the city" },
+          { "date": "May 1", "event": "Vaigai Aatril Ezhuntharulal - Kallazhagar's symbolic entry into the Vaigai River, arriving after missing the wedding" },
+          { "date": "May 2", "event": "Sesha Vahanam, Garuda Vahanam, and Dasavatharam Kaatchi depicting the ten incarnations of Vishnu" },
+          { "date": "May 3", "event": "Mohini Avatharam and Rajanga Alankaram - Vishnu's Mohini form and a regal deity decoration" },
+          { "date": "May 4", "event": "Kallazhagar begins his return journey toward Alagar Kovil" },
+          { "date": "May 5", "event": "Kallazhagar returns to Alagar Kovil, completing his journey" },
+          { "date": "May 6", "event": "Urchava Saatru Murai - closing rituals mark the formal end of the festival" }
+        ],
+        "source": "https://www.tamilnadutourism.com/blog/madurai-chithirai-festivals-events"
       }
     ],
     "etiquette": [
       {
-        "tip": "REPLACE: e.g. dress code for temple entry (shoulders/knees covered, remove footwear)",
-        "source": "REPLACE: paste the real source URL here"
+        "tip": "Shoulders and knees must be covered when entering Meenakshi Amman Temple; footwear must be removed before entering the temple premises. Men are often expected to remove shirts in the inner sanctum in some southern temples, so check current rules on arrival.",
+        "source": "https://www.meenakshiammantemple.com/blog/meenakshi-temple-thirukalyanam-2026"
       }
     ],
     "food": [
       {
-        "dish": "REPLACE: e.g. Jigarthanda",
-        "description": "REPLACE: honest description, not tourist-brochure language",
-        "where_to_try": "REPLACE: real spot name",
-        "source": "REPLACE: paste the real source URL here"
+        "dish": "Jigarthanda",
+        "description": "A cooling Madurai specialty drink made with milk, almond gum (badam pisin), nannari syrup, and ice cream — sold on nearly every street corner but strongest at the shop where it originated.",
+        "where_to_try": "Madurai Famous Jigarthanda, near Vilakkuthoon, Town Hall Road (original branch since 1977)",
+        "source": "https://mfjllp.com/jigarthanda-the-taste-of-madurai/"
       }
+      {
+        "dish": "Ghee Podi Idli",
+        "description": "Soft, fluffy idlis served with a spiced podi and ghee topping, plated on a banana leaf with four types of chutney and sambar — a Madurai breakfast staple",
+        "where_to_try": "Murugan Idli Shop, West Masi Street (original outlet,since 1960s)",
+        "source": "https://wanderlog.com/list/geoCategory/1808877/best-foods-to-try-in-madurai"
+      }      
     ],
     "verified_spots": [
       {
-        "name": "REPLACE: real spot name",
-        "category": "REPLACE: e.g. temple / food / market",
-        "notes": "REPLACE: honest notes",
-        "lat": null,
-        "lng": null,
-        "source": "REPLACE: paste the real source URL here"
+        "name": "Meenakshi Amman Temple",
+        "category": "temple",
+        "notes": "The historic heart of Madurai and center of the Chithirai Festival; among the 275 Paadal Petra Sthalam sacred to Tamil Shaiva tradition. Entry is free; dress code and footwear rules apply.",
+        "lat": 9.9195,
+        "lng": 78.1193,
+        "source":"https://www.yatra.com/utilities/temple/meenakshi-amman-temple-madurai"
       }
     ]
   },
